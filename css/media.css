@@ -1,0 +1,45 @@
+@media (max-width: 1024px) {
+    .about--logo{
+        width: 297px;
+    }
+    .picture1__block{
+        width: 300px;
+    }
+
+    .breadcrumb{
+        flex-direction:unset;
+    }
+}
+@media (max-width: 992px) {
+
+}
+@media (max-width: 786px) {
+
+}
+
+@media (max-width: 576px) {
+    .img {
+        width: 380px;
+    }
+}
+@media (max-width: 414px) {
+    .img {
+        width: 580px;
+    }
+}
+@media (max-width: 320px) {
+    .img {
+        width: 300px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
