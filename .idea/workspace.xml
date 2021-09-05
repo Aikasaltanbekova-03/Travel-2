@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="609045ff-238f-4d31-89b7-7d16cc0290b7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/css/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xOOlokTpeRYHqGxZaxmrnslZzn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IT\travel\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="609045ff-238f-4d31-89b7-7d16cc0290b7" name="Changes" comment="" />
+      <created>1630222821423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630222821423</updated>
+      <workItem from="1630222822968" duration="58000" />
+      <workItem from="1630222908361" duration="180000" />
+      <workItem from="1630223101166" duration="675000" />
+      <workItem from="1630223794614" duration="727000" />
+      <workItem from="1630224540943" duration="464000" />
+      <workItem from="1630225025984" duration="40000" />
+      <workItem from="1630225076158" duration="5494000" />
+      <workItem from="1630309884850" duration="3000" />
+      <workItem from="1630309954303" duration="26975000" />
+      <workItem from="1630394329519" duration="15000" />
+      <workItem from="1630394403697" duration="11000" />
+      <workItem from="1630394480120" duration="9000" />
+      <workItem from="1630394759446" duration="423000" />
+      <workItem from="1630395227894" duration="13000" />
+      <workItem from="1630395486332" duration="10000" />
+      <workItem from="1630396105479" duration="2888000" />
+      <workItem from="1630399625396" duration="4000" />
+      <workItem from="1630399998112" duration="31000" />
+      <workItem from="1630400050053" duration="1953000" />
+      <workItem from="1630540551916" duration="3101000" />
+      <workItem from="1630551122595" duration="8582000" />
+      <workItem from="1630560387433" duration="2143000" />
+      <workItem from="1630563502085" duration="12000" />
+      <workItem from="1630563531724" duration="4000" />
+      <workItem from="1630563551671" duration="7000" />
+      <workItem from="1630563628928" duration="13000" />
+      <workItem from="1630563707930" duration="35000" />
+      <workItem from="1630564289942" duration="1835000" />
+      <workItem from="1630567185175" duration="5884000" />
+      <workItem from="1630719534740" duration="383000" />
+      <workItem from="1630719935674" duration="234000" />
+      <workItem from="1630720213817" duration="14000" />
+      <workItem from="1630720240555" duration="36000" />
+      <workItem from="1630720477762" duration="2236000" />
+      <workItem from="1630723206379" duration="627000" />
+      <workItem from="1630723895996" duration="890000" />
+      <workItem from="1630727009847" duration="2000" />
+      <workItem from="1630740288163" duration="1495000" />
+      <workItem from="1630741829586" duration="5076000" />
+      <workItem from="1630792376866" duration="2880000" />
+      <workItem from="1630808557529" duration="1724000" />
+      <workItem from="1630810346710" duration="2433000" />
+      <workItem from="1630812882768" duration="4921000" />
+      <workItem from="1630818049870" duration="2490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -281,19 +281,6 @@ a, a:hover {
   color: #000000;
   opacity: 0.8;
 }
-
-#footer .footer-col {
-  margin-top: 100px;
-}
-#footer .contact {
-  margin-top: 150px;
-}
-#footer .contact-title {
-  margin-top: 50px;
-}
-#footer .contact-1 {
-  margin-top: 50px;
-}
 #footer .fa-facebook {
   color: #3B5999;
 }
@@ -308,18 +295,6 @@ a, a:hover {
 #footer .fa-google {
   background: #273B7A;
   color: #FFFFFF;
-}
-#footer .menu-1 {
-  margin-top: -150px;
-  margin-left: 300px;
-}
-#footer .menu-2 {
-  margin-top: -130px;
-  margin-left: 550px;
-}
-#footer .menu-3 {
-  margin-left: 800px;
-  margin-top: -150px;
 }
 
 /*# sourceMappingURL=style.css.map */

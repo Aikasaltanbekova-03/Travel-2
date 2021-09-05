@@ -59,7 +59,7 @@ a, a:hover {
   position: absolute;
   width: 25px;
   height: 2px;
-  background-color: #0d6efd;
+  background-color: darkslateblue;
   -webkit-transition: 0.4s;
   -moz-transition: 0.4s;
   -o-transition: 0.4s;
@@ -167,7 +167,7 @@ a, a:hover {
   }
 
   &--btn1:focus {
-    background: $blue;
+    background: rgba(91, 39, 139, 0.88);
 
   }
 
@@ -186,12 +186,12 @@ a, a:hover {
 
   .hero {
     .hero--title {
-      color: $bg;
+      color: azure;
       padding-top: 200px;
     }
 
     .hero--description {
-      color: $bg;
+      color: azure;
     }
 
     .hero--btn2 {
@@ -204,7 +204,7 @@ a, a:hover {
     }
 
     .hero--btn2:focus {
-      background: $blue;
+      background: rgba(139, 76, 106, 0.88);
     }
 
     @keyframes new {
@@ -238,11 +238,8 @@ a, a:hover {
 }
 
 #movie {
-  .movie {
-    margin-top: 100px;
-  }
-}
 
+}
 
 .picture {
 
@@ -286,13 +283,23 @@ a, a:hover {
 .picture-title {
   text-align: center;
   margin-top: 150px;
+  font-family: Gelasio, serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 43px;
+  line-height: 140%;
+  color: #000000;
 }
 
 .picture-description {
   margin: 20px 0 56px 0;
   text-align: center;
+  font-family: Roboto, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 160%;
 }
-
 
 
 .box1--title {
@@ -323,56 +330,26 @@ a, a:hover {
   color: #000000;
   opacity: 0.8;
 }
-
-#footer {
-  .footer-col {
-    margin-top: 100px;
-  }
-
-  .contact {
-    margin-top: 150px;
-  }
-
-  .contact-title {
-    margin-top: 50px;
-  }
-
-  .contact-1 {
-    margin-top: 50px;
-  }
-
+#footer{
   .fa-facebook {
     color: #3B5999;
   }
 
   .fa-instagram {
     background: linear-gradient(225.4deg, #833AB4 18.3%, #9C3495 24.28%, #DC2546 37.27%, #FD1D1D 43.71%, #FC6831 54.52%, #FC9B40 62.93%, #FCAF45 67.04%, #FDB750 68.89%, #FECB6A 74.4%, #FFD87A 79.32%, #FFDC80 83.11%);
-    color: $bg;
+    color: azure;
   }
 
   .fa-twitter {
     background: #0a58ca;
-    color: $bg;
+    color: azure;
   }
 
   .fa-google {
     background: #273B7A;
-    color: $bg;
+    color: azure;
   }
+.btn1{
 
-  .menu-1 {
-    margin-top: -150px;
-    margin-left: 300px;
-  }
-
-  .menu-2 {
-
-    margin-top: -130px;
-    margin-left: 550px;
-  }
-
-  .menu-3 {
-    margin-left: 800px;
-    margin-top: -150px;
-  }
+}
 }
